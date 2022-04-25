@@ -3,9 +3,9 @@
 ### Welcome to **Dativejs**
 
 👩‍💻 Useful resources - [
-  "(docs v1)[https://dativejs.js.org/v1/#/]",
-  "(docs v2)[https://dativejs.js.org/v2/]",
-  "(docs v2-alpha)[https://dativejs.js.org/]"
+  "docs v1 https://dativejs.js.org/v1/#/",
+  "docs v2 https://dativejs.js.org/v2/",
+  "docs v2-alpha https://dativejs.js.org/"
 ]
 
 🙋‍♀️ A short introduction - DativeJs Is a Ui Javascript Framework Built By The **Texxalabs** Team
